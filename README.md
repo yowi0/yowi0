@@ -13,7 +13,7 @@ Here are a couple of hobby projects I’ve worked on related to gaming:
 
 - **Escape from Tarkov Project**
   
-  [![Escape from Tarkov Project](https://static-assets-streamable.23video.com/static/v1/images/streamable-logo.png)](https://streamable.com/92avza)
+  [![Escape from Tarkov Project](https://vumbnail.com/1076993387.jpg)](https://streamable.com/92avza)
 
 - **Counter-Strike 2 Project**
   
