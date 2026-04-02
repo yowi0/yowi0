@@ -17,4 +17,4 @@ Here are a couple of hobby projects I’ve worked on related to gaming:
 
 - **Escape from Tarkov Project**
   
-  [![Escape from Tarkov Project](https://img.youtube.com/vi/oFl2IqhY1gw/0.jpg)](https://youtu.be/oFl2IqhY1gw)
+  [![Escape from Tarkov Project](https://vumbnail.com/1076993387.jpg)](https://vimeo.com/1076993387)
