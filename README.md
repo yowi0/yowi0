@@ -8,13 +8,13 @@ I love combining my technical skills with my curiosity for games, and I'm always
 
 ---
 
-## 🎮 Projects & Demos
+## 🎮 Projects
 Here are a couple of hobby projects I’ve worked on related to gaming:
+
+- **Escape from Tarkov Project**
+  
+  [![Escape from Tarkov Project](https://static-assets-streamable.23video.com/static/v1/images/streamable-logo.png)](https://streamable.com/92avza)
 
 - **Counter-Strike 2 Project**
   
   [![Counter-Strike 2 Project](https://img.youtube.com/vi/QvLTUrQofq8/0.jpg)](https://youtu.be/QvLTUrQofq8)
-
-- **Escape from Tarkov Project**
-  
-  [![Escape from Tarkov Project](https://vumbnail.com/1076993387.jpg)](https://vimeo.com/1076993387)
